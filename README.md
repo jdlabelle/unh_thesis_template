@@ -1,6 +1,6 @@
 # LaTeX Thesis Template
 
-This is a LaTeX template for a University of New Hampshire Masters Thesis, following specified academic formatting requirements.
+This is a LaTeX template for a *University of New Hampshire* Masters Thesis, following specified academic formatting requirements.
 
 ## Directory Structure
 
@@ -49,19 +49,19 @@ This is a LaTeX template for a University of New Hampshire Masters Thesis, follo
    pdflatex thesis
    ```
 
-6. Or use latexmk (recommended)
+6. Or use **latexmk** (recommended)
 
-Compile and view in continuous mode:
+    Compile and view in continuous mode:
     ```bash
     latexmk -pdf thesis.tex
     ```
 
-Clean:
+    Clean:
     ```bash
     latexmk -C
     ```
 
-7. TODO: I plan to create a Makefile to make compiling, viewing, and cleaning easier
+**TODO**: I plan to create a Makefile to make compiling, viewing, and cleaning easier
 
 ## Customization
 
