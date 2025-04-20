@@ -48,16 +48,20 @@ This is a LaTeX template for a University of New Hampshire Masters Thesis, follo
    pdflatex thesis
    pdflatex thesis
    ```
-5a. Or use latexmk (recommended)
+
+6. Or use latexmk (recommended)
+
 Compile and view in continuous mode:
     ```bash
     latexmk -pdf thesis.tex
     ```
+
 Clean:
     ```bash
     latexmk -C
     ```
-6. TODO: I plan to create a Makefile to make compiling, viewing, and cleaning easier
+
+7. TODO: I plan to create a Makefile to make compiling, viewing, and cleaning easier
 
 ## Customization
 
