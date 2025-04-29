@@ -15,8 +15,8 @@ This is a LaTeX template for a *University of New Hampshire* Masters Thesis, fol
 │   ├── abstract.tex      # Abstract
 │   └── ...
 ├── chapters/             # Main thesis chapters
-│   ├── introduction.tex  # Introduction chapter
-│   ├── chapter1.tex     # Chapter 1
+│   ├── introduction.tex  # Introduction - Chapter 1
+│   ├── chapter2.tex     # Chapter 2
 │   └── ...
 ├── appendices/          # Appendices
 │   ├── appendixA.tex   # Appendix A
